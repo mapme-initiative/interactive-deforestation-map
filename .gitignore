@@ -1,4 +1,7 @@
-.Rproj.user
-.Rhistory
+*.html
 .RData
+.Rhistory
+.Rproj.user
 .Ruserdata
+WDPA/*
+interactive-deforestation-map_files/*
