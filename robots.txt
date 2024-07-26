@@ -1,0 +1,1 @@
+Sitemap: https://mapme-initiative.github.io/interactive-deforestation-map/sitemap.xml
