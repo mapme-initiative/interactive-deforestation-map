@@ -3,5 +3,7 @@
 .Rhistory
 .Rproj.user
 .Ruserdata
-WDPA/*
-interactive-deforestation-map_files/*
+*.html
+
+/.quarto/
+/docs/
